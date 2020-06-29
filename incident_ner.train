@@ -1,3 +1,4 @@
+<START:prio> P 1 <END> <START:classificatie> Reanimatie <END> <START:karakteristiek> (Inzet AED) <END> <START:locatie> Schotenhof <END> <START:plaats> Prinsenbeek <END> <START:eenheid> 203131 <END>
 <START:prio> P 1 <END> <START:incidentgroep> BZB-01 <END> <START:classificatie> BR wegvervoer <END> <START:locatie> A59 Re - Maasroute 93,0 <END> <START:plaats> Terheijden <END> <START:eenheid> 203131 <END> <START:eenheid> 205432 <END> 
 <START:prio> P 1 <END> <START:incidentgroep> BZB-03 <END>  <START:karakteristiek> (Middel BR) <END> <START:classificatie> BR gebouw <END> <START:locatie> Amstelstraat <END> <START:plaats> Breda <END> <START:eenheid> 203092 <END> <START:eenheid> 203131 <END>
 <START:prio> P 2 <END> <START:incidentgroep> BZB-04 <END> <START:classificatie> HV weg <END> <START:locatie> A16 Li 57,1 <END> <START:plaats> Prinsenbeek <END> <START:eenheid> 203092 <END> <START:eenheid> 203131 <END> <START:eenheid> 205434 <END>
