@@ -161,7 +161,7 @@ TEST TEST <START:prio> P 2 <END> <START:classificatie> Geplande actie <END> <STA
 <START:prio> P 2 <END> BZB-01 <START:classificatie> BR gerucht <END> <START:locatie> Vaandelstraat <END> <START:plaats> Prinsenbeek <END> <START:eenheid> 203131 <END>
 <START:prio> P 2 <END> BZB-06 <START:classificatie> BR nacontrole <END> <START:locatie> Kapelstraat <END> <START:plaats> Prinsenbeek <END> <START:eenheid> 203131 <END>
 <START:prio> P 1 <END> BZB-02 <START:classificatie> BR winkel <END> <START:locatie> Haagweg <END> <START:plaats> Breda <END> <START:eenheid> 203131 <END>
-<START:prio> P 1 <END> BZB-03 <START:classificatie> BR woning <END> <START:locatie> Korenpad <END> <START:plaats> Prinsenbeek <END> <START:eenheid> 203131 <START:eenheid> 203461 <END>
+<START:prio> P 1 <END> BZB-03 <START:classificatie> BR woning <END> <START:locatie> Korenpad <END> <START:plaats> Prinsenbeek <END> <START:eenheid> 203131 <END> <START:eenheid> 203461 <END>
 <START:prio> P 1 <END> KNET-417 <START:classificatie> BR wegvervoer <END> <START:karakteristiek> (Auto) <END> <START:locatie> Dintelstraat <END> <START:plaats> Breda <END> <START:eenheid> 20-3131 <END>
 <START:prio> P 1 <END> KNET-417 <START:classificatie> BR wegvervoer <END> <START:karakteristiek> (scooter) <END> <START:locatie> Haagdijk <END> <START:plaats> Breda <END> <START:eenheid> 20-3131 <END>
 <START:prio> P 1 <END> KNET-417 <START:classificatie> BR wegvervoer <END> <START:karakteristiek> (scooter) <END> <START:locatie> Tuinzigtlaan <END> <START:plaats> Breda <END> <START:eenheid> 20-3131 <END>
